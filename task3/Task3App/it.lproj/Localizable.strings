@@ -1,0 +1,10 @@
+"task3_error_input" = "Inserisci valori validi: eta 10-100, altezza 100-240 cm, peso 30-250 kg.";
+"task3_bmi" = "BMI";
+"task3_bmi_category" = "Categoria BMI";
+"task3_bmr" = "BMR";
+"task3_maintenance" = "Calorie di mantenimento";
+"task3_placeholder" = "Inserisci i parametri e premi Calculate.";
+"task3_bmi_underweight" = "Sottopeso";
+"task3_bmi_normal" = "Normale";
+"task3_bmi_overweight" = "Sovrappeso";
+"task3_bmi_obese" = "Obesita";

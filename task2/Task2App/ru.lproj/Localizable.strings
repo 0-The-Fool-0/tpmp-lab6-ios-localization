@@ -1,0 +1,8 @@
+"task2_prompt_enter_city" = "Введите город и нажмите Refresh";
+"task2_prompt_supported_cities" = "Поддерживаются 6 городов из Италии и Франции";
+"task2_error_city_not_found" = "Город не найден";
+"task2_supported_cities" = "Доступные города";
+"task2_country" = "Страна";
+"task2_monument" = "Известный памятник";
+"task21_prompt" = "Введите город и нажмите Refresh";
+"task21_not_found" = "Город не найден. Доступные";

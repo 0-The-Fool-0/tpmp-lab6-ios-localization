@@ -1,0 +1,10 @@
+"task3_error_input" = "Enter valid values: age 10-100, height 100-240 cm, weight 30-250 kg.";
+"task3_bmi" = "BMI";
+"task3_bmi_category" = "BMI category";
+"task3_bmr" = "BMR";
+"task3_maintenance" = "Maintenance calories";
+"task3_placeholder" = "Enter parameters and tap Calculate.";
+"task3_bmi_underweight" = "Underweight";
+"task3_bmi_normal" = "Normal";
+"task3_bmi_overweight" = "Overweight";
+"task3_bmi_obese" = "Obese";

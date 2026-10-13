@@ -1,0 +1,10 @@
+"task5_error_input" = "Enter grades from 0 to 10 for all subjects.";
+"task5_source_scale" = "Source scale: 10-point";
+"task5_result_placeholder" = "Enter grades and choose target scale.";
+"task5_subject_analysis" = "Mathematical analysis";
+"task5_subject_geometry" = "Geometry and algebra";
+"task5_subject_programming" = "Programming";
+"task5_average" = "Average";
+"task5_scale_5" = "5-point scale";
+"task5_scale_12" = "12-point scale";
+"task5_scale_25" = "25-point scale";

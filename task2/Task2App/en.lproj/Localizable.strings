@@ -1,0 +1,8 @@
+"task2_prompt_enter_city" = "Enter a city name and tap Refresh";
+"task2_prompt_supported_cities" = "Supports 6 cities from Italy and France";
+"task2_error_city_not_found" = "City not found";
+"task2_supported_cities" = "Supported cities";
+"task2_country" = "Country";
+"task2_monument" = "Famous monument";
+"task21_prompt" = "Enter a city name and tap Refresh";
+"task21_not_found" = "City not found. Supported";

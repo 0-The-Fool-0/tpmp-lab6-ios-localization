@@ -1,0 +1,101 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+/* Begin PBXBuildFile section */
+		20F67C4B823747D5B6284E70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F21A51FECC4BC193BBECE5 /* AppDelegate.swift */; };
+		72F5E59C79FB4F13B6493930 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0EE2090380422FACC24121 /* SceneDelegate.swift */; };
+		F0FF602F1C8F463589D81CF7 /* BMIBMRCalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9C99B93F1E4EC0A9D41E2E /* BMIBMRCalculatorViewController.swift */; };
+		58A5D2D18A9947BB865FB980 /* HealthCalculatorService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F4124F6A414E95AD108700 /* HealthCalculatorService.swift */; };
+		608EB349552347FB933A2B61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39E4B869FAE8488A824D93B8 /* Assets.xcassets */; };
+		D4DF05841DE34A8197FE9165 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19DCFCFBA0EA45E7B0E6DBE6 /* Localizable.strings */; };
+		FF8AC7F92D8C4FABAE8BD876 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2FF8710D8805473EA44D9823 /* Localizable.strings */; };
+		B518946E89874D699C467D41 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4FF6BABA4FEF4F4192FB95CA /* Localizable.strings */; };
+/* End PBXBuildFile section */
+/* Begin PBXFileReference section */
+		4C778F3B9F734A38B7856342 /* Task3App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Task3App.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0F21A51FECC4BC193BBECE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3A0EE2090380422FACC24121 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		5B9C99B93F1E4EC0A9D41E2E /* BMIBMRCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIBMRCalculatorViewController.swift; sourceTree = "<group>"; };
+		A1F4124F6A414E95AD108700 /* HealthCalculatorService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthCalculatorService.swift; sourceTree = "<group>"; };
+		39E4B869FAE8488A824D93B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		19DCFCFBA0EA45E7B0E6DBE6 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2FF8710D8805473EA44D9823 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4FF6BABA4FEF4F4192FB95CA /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D2C2283B30E54B3EB0EFD80A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+/* Begin PBXFrameworksBuildPhase section */
+		79AF54CEBB8E4AD481CE9C83 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+/* Begin PBXGroup section */
+		D1942E9C96F84CBD914D6ACC = {isa = PBXGroup; children = (0FC8D071D8744FFBB9BE0051 /* Task3App */, C7DF869035ED4D3FBD2D9241 /* Products */); sourceTree = "<group>"; };
+		C7DF869035ED4D3FBD2D9241 = {isa = PBXGroup; children = (4C778F3B9F734A38B7856342 /* Task3App.app */); name = Products; sourceTree = "<group>"; };
+		0FC8D071D8744FFBB9BE0051 = {isa = PBXGroup; children = (
+				E0F21A51FECC4BC193BBECE5 /* AppDelegate.swift */,
+				39E4B869FAE8488A824D93B8 /* Assets.xcassets */,
+				5B9C99B93F1E4EC0A9D41E2E /* BMIBMRCalculatorViewController.swift */,
+				A1F4124F6A414E95AD108700 /* HealthCalculatorService.swift */,
+				D2C2283B30E54B3EB0EFD80A /* Info.plist */,
+				3A0EE2090380422FACC24121 /* SceneDelegate.swift */,
+				19DCFCFBA0EA45E7B0E6DBE6 /* Localizable.strings */,
+				4FF6BABA4FEF4F4192FB95CA /* Localizable.strings */,
+				2FF8710D8805473EA44D9823 /* Localizable.strings */,
+		); path = Task3App; sourceTree = "<group>"; };
+/* End PBXGroup section */
+/* Begin PBXNativeTarget section */
+		218F437854FB4B54843688B9 /* Task3App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34445B12269C4449A7AF7EDD;
+			buildPhases = (089F72315A504D46930236D8 /* Sources */, 9C29D5DD741C4FC780351C1D /* Resources */, 79AF54CEBB8E4AD481CE9C83 /* Frameworks */);
+			buildRules = (); dependencies = ();
+			name = Task3App; productName = Task3App; productReference = 4C778F3B9F734A38B7856342; productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+/* Begin PBXProject section */
+		DE135F16DF0B48D5A0D603B6 /* Project object */ = {
+			isa = PBXProject; attributes = {BuildIndependentTargetsInParallel = 1; LastUpgradeCheck = 1500;};
+			buildConfigurationList = F0C419FBBF4C47ED836455D6;
+			compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0;
+			knownRegions = (en, Base, ru, it); mainGroup = D1942E9C96F84CBD914D6ACC; productRefGroup = C7DF869035ED4D3FBD2D9241;
+			projectDirPath = ""; projectRoot = ""; targets = (218F437854FB4B54843688B9 /* Task3App */);
+		};
+/* End PBXProject section */
+/* Begin PBXResourcesBuildPhase section */
+		9C29D5DD741C4FC780351C1D /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (
+				608EB349552347FB933A2B61 /* Assets.xcassets in Resources */,
+				D4DF05841DE34A8197FE9165 /* Localizable.strings in Resources */,
+				FF8AC7F92D8C4FABAE8BD876 /* Localizable.strings in Resources */,
+				B518946E89874D699C467D41 /* Localizable.strings in Resources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+/* Begin PBXSourcesBuildPhase section */
+		089F72315A504D46930236D8 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+				20F67C4B823747D5B6284E70 /* AppDelegate.swift in Sources */,
+				72F5E59C79FB4F13B6493930 /* SceneDelegate.swift in Sources */,
+				F0FF602F1C8F463589D81CF7 /* BMIBMRCalculatorViewController.swift in Sources */,
+				58A5D2D18A9947BB865FB980 /* HealthCalculatorService.swift in Sources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+/* Begin XCBuildConfiguration section */
+		3950B9D6C2E74DEBA34BDD1C /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 15.0; SDKROOT = iphoneos; SWIFT_OPTIMIZATION_LEVEL = "-Onone";}; name = Debug; };
+		B83C1D97DB664CCE89F701D1 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {IPHONEOS_DEPLOYMENT_TARGET = 15.0; SDKROOT = iphoneos;}; name = Release; };
+		F1C101B4E22A4BC983F12782 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {
+			ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = NO;
+			INFOPLIST_FILE = Task3App/Info.plist; PRODUCT_BUNDLE_IDENTIFIER = by.tpmp.lab6.task3; SWIFT_VERSION = 5.0;
+			TARGETED_DEVICE_FAMILY = "1,2"; CLANG_ENABLE_MODULES = YES;
+		}; name = Debug; };
+		1D57EE7ADA7D4E7D8852BF7C /* Release */ = {isa = XCBuildConfiguration; buildSettings = {
+			ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = NO;
+			INFOPLIST_FILE = Task3App/Info.plist; PRODUCT_BUNDLE_IDENTIFIER = by.tpmp.lab6.task3; SWIFT_VERSION = 5.0;
+			TARGETED_DEVICE_FAMILY = "1,2"; CLANG_ENABLE_MODULES = YES;
+		}; name = Release; };
+/* End XCBuildConfiguration section */
+/* Begin XCConfigurationList section */
+		F0C419FBBF4C47ED836455D6 = {isa = XCConfigurationList; buildConfigurations = (3950B9D6C2E74DEBA34BDD1C, B83C1D97DB664CCE89F701D1); defaultConfigurationName = Release; };
+		34445B12269C4449A7AF7EDD = {isa = XCConfigurationList; buildConfigurations = (F1C101B4E22A4BC983F12782, 1D57EE7ADA7D4E7D8852BF7C); defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = DE135F16DF0B48D5A0D603B6;
+}

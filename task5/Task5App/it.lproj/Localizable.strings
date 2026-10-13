@@ -1,0 +1,10 @@
+"task5_error_input" = "Inserisci voti da 0 a 10 per tutte le materie.";
+"task5_source_scale" = "Scala di partenza: 10 punti";
+"task5_result_placeholder" = "Inserisci i voti e scegli la scala di conversione.";
+"task5_subject_analysis" = "Analisi matematica";
+"task5_subject_geometry" = "Geometria e algebra";
+"task5_subject_programming" = "Programmazione";
+"task5_average" = "Media";
+"task5_scale_5" = "Scala a 5 punti";
+"task5_scale_12" = "Scala a 12 punti";
+"task5_scale_25" = "Scala a 25 punti";

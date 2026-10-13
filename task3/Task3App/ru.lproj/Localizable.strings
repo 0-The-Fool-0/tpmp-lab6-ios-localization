@@ -1,0 +1,11 @@
+"task3_error_input" = "Введите корректные данные: возраст 10-100, рост 100-240 см, вес 30-250 кг.";
+"task3_bmi" = "ИМТ";
+"task3_bmi_category" = "Категория ИМТ";
+"task3_bmr" = "BMR";
+"task3_maintenance" = "Калории для поддержания";
+"task3_placeholder" = "Введите параметры и нажмите Calculate.";
+"task3_bmi_underweight" = "Недостаток массы";
+"task3_bmi_normal" = "Норма";
+"task3_bmi_overweight" = "Избыточная масса";
+"task3_bmi_obese" = "Ожирение";
+"task3_title" = "ИМТ / BMR";

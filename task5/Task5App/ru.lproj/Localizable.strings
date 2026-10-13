@@ -1,0 +1,13 @@
+"task5_error_input" = "Введите оценки от 0 до 10 по всем предметам.";
+"task5_source_scale" = "Исходная система: 10-балльная";
+"task5_result_placeholder" = "Введите оценки и выберите целевую систему.";
+"task5_subject_analysis" = "Математический анализ";
+"task5_subject_geometry" = "Геометрия и алгебра";
+"task5_subject_programming" = "Программирование";
+"task5_average" = "Средний балл";
+"task5_scale_5" = "5-балльная система";
+"task5_scale_12" = "12-балльная система";
+"task5_scale_25" = "25-балльная система";
+"task5_title_input" = "Ввод оценок";
+"task5_title_result" = "Результат";
+"task5_convert" = "Перевести";

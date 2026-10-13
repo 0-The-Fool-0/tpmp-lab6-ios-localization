@@ -1,0 +1,8 @@
+"task2_prompt_enter_city" = "Inserisci una citta e premi Refresh";
+"task2_prompt_supported_cities" = "Supporta 6 citta da Italia e Francia";
+"task2_error_city_not_found" = "Citta non trovata";
+"task2_supported_cities" = "Citta disponibili";
+"task2_country" = "Paese";
+"task2_monument" = "Monumento famoso";
+"task21_prompt" = "Inserisci una citta e premi Refresh";
+"task21_not_found" = "Citta non trovata. Disponibili";
