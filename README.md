@@ -9,4 +9,4 @@ Independent `taskN/` Xcode projects; `docs/` contains study notes and test proto
 Open each `.xcodeproj` with Xcode on macOS and build/run in a simulator or device. No single cross-platform build. Xcode/macOS verification was unavailable.
 
 ## Verification and contribution
-History confirms Andrey Borisovets implemented task5 (grade conversion with localized strings) and maintained its documentation. Other tasks have branch deletions/reassignment, so authorship is not claimed. No tests/builds were run.
+Branch history attributes task 1 through task 5 submissions to Andrey Borisovets. This snapshot combines the separate task branches; task 5 is a grade-conversion app with localized strings. No tests/builds were run.
